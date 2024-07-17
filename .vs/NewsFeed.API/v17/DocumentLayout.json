@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.service\\services\\newsfeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|solutionrelative:newsfeed.service\\services\\newsfeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.service\\interface\\inewsfeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|solutionrelative:newsfeed.service\\interface\\inewsfeedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.api\\controllers\\newsfeedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|solutionrelative:newsfeed.api\\controllers\\newsfeedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\commanmodel\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\commanmodel\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|solutionrelative:newsfeed.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|solutionrelative:newsfeed.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\models\\newsfeedstorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\models\\newsfeedstorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\entities\\newsfeedstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\entities\\newsfeedstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\profiler\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\profiler\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\entities\\newsfeeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\entities\\newsfeeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\newsfeed.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\newsfeed.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{109A572B-5443-4C33-9DD1-F525B679859C}|NewsFeed.API\\NewsFeed.API.csproj|solutionrelative:newsfeed.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A104E9F-8952-4B21-A2A3-5A88061ADAED}|NewsFeed.Service\\NewsFeed.Service.csproj|solutionrelative:newsfeed.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|d:\\newsfeeddemo\\news-feed-backend\\newsfeed.api\\newsfeed.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022E944E-5072-434E-AA0B-6A02486A2859}|NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj|solutionrelative:newsfeed.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:40:27.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsFeedService.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Services\\NewsFeedService.cs",
+              "RelativeDocumentMoniker": "NewsFeed.Service\\Services\\NewsFeedService.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Services\\NewsFeedService.cs",
+              "RelativeToolTip": "NewsFeed.Service\\Services\\NewsFeedService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:16:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INewsFeedService.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Interface\\INewsFeedService.cs",
+              "RelativeDocumentMoniker": "NewsFeed.Service\\Interface\\INewsFeedService.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Interface\\INewsFeedService.cs",
+              "RelativeToolTip": "NewsFeed.Service\\Interface\\INewsFeedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:16:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsFeedController.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\Controllers\\NewsFeedController.cs",
+              "RelativeDocumentMoniker": "NewsFeed.API\\Controllers\\NewsFeedController.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\Controllers\\NewsFeedController.cs",
+              "RelativeToolTip": "NewsFeed.API\\Controllers\\NewsFeedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:52:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:31:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageInfo.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\CommanModel\\PageInfo.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\CommanModel\\PageInfo.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\CommanModel\\PageInfo.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\CommanModel\\PageInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:02:32.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\Program.cs",
+              "RelativeDocumentMoniker": "NewsFeed.API\\Program.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\Program.cs",
+              "RelativeToolTip": "NewsFeed.API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:05:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsFeed.API\\appsettings.json",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\appsettings.json",
+              "RelativeToolTip": "NewsFeed.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T08:46:21.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsFeedStoryDto.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Models\\NewsFeedStoryDto.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Models\\NewsFeedStoryDto.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Models\\NewsFeedStoryDto.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Models\\NewsFeedStoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:24:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsFeedStory.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Entities\\NewsFeedStory.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Entities\\NewsFeedStory.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Entities\\NewsFeedStory.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Entities\\NewsFeedStory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:04:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Profiler\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Profiler\\MappingProfile.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Profiler\\MappingProfile.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Profiler\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:49:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsFeedDbContext.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Entities\\NewsFeedDbContext.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Entities\\NewsFeedDbContext.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Entities\\NewsFeedDbContext.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Entities\\NewsFeedDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:59:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsFeed.DataAccess.csproj",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj",
+              "RelativeToolTip": "NewsFeed.DataAccess\\NewsFeed.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T06:48:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NewsFeed.API\\appsettings.Development.json",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.API\\appsettings.Development.json",
+              "RelativeToolTip": "NewsFeed.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T06:37:27.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "NewsFeed.Service\\Class1.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.Service\\Class1.cs",
+              "RelativeToolTip": "NewsFeed.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:04:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "NewsFeed.DataAccess\\Class1.cs",
+              "ToolTip": "D:\\NewsFeedDemo\\news-feed-backend\\NewsFeed.API\\NewsFeed.DataAccess\\Class1.cs",
+              "RelativeToolTip": "NewsFeed.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:03:53.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

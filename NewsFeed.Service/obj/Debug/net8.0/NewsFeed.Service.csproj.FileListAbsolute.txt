@@ -1,0 +1,15 @@
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.csproj.AssemblyReference.cache
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.AssemblyInfoInputs.cache
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.AssemblyInfo.cs
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.csproj.CoreCompileInputs.cache
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\bin\Debug\net8.0\NewsFeed.Service.deps.json
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\bin\Debug\net8.0\NewsFeed.Service.dll
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\bin\Debug\net8.0\NewsFeed.Service.pdb
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\bin\Debug\net8.0\NewsFeed.DataAccess.dll
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\bin\Debug\net8.0\NewsFeed.DataAccess.pdb
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.38341AEB.Up2Date
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.dll
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\refint\NewsFeed.Service.dll
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\NewsFeed.Service.pdb
+D:\NewsFeedDemo\news-feed-backend\NewsFeed.API\NewsFeed.Service\obj\Debug\net8.0\ref\NewsFeed.Service.dll
