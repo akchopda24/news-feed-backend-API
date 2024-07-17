@@ -1,6 +1,7 @@
 *** Requirement of software ***
-Visual studio 2022 Community or professional 
-SQL server 2019 or 2022
+1. Visual studio 2022 Community or professional 
+
+2. SQL server 2019 or 2022
 
 *** Project Setup ***
 1. Download SQL database bak file from following link
