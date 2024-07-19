@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using NewsFeed.DataAccess.CommanModel;
 using NewsFeed.DataAccess.Entities;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace NewsFeed.DataAccess.Repository
 {
@@ -24,22 +17,6 @@ namespace NewsFeed.DataAccess.Repository
         public async Task<T> GetById(int id)
         {
             return await _dbContext.Set<T>().FindAsync(id);
-        }
-        public async Task<IQueryable<T>> FindByCondition(Expression<Func<T, bool>> expression)
-        {
-            return _dbContext.Set<T>().Where(expression).AsNoTracking();
-        }
-
-        public async Task Create(T entity)
-        {
-            _ = _dbContext.Set<T>().AddAsync(entity);
-            await _dbContext.SaveChangesAsync();
-        }
-
-        public async Task Update(T entity)
-        {
-            _dbContext.Entry(entity).State = EntityState.Modified;
-            await _dbContext.SaveChangesAsync();
         }
 
         public async Task Delete(T entity)

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace NewsFeed.DataAccess.Models
 {
+    /// <summary>
+    /// Custom model class
+    /// </summary>
     public class NewsFeedStoryDto
     {
         public int Id { get; set; }

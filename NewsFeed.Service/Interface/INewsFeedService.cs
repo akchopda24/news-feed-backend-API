@@ -11,10 +11,6 @@ namespace NewsFeed.Service.Interface
 {
     public interface INewsFeedService
     {
-        Task<IEnumerable<NewsFeedStoryDto>> GetNewsFeedStories();
         Task<PagedResult<NewsFeedStory>> SearchNewsFeedStory(SearchInfo param);
-        //Task AddNewsFeedStory(NewsFeedStoryDto user);
-        //Task UpdateNewsFeedStory(NewsFeedStoryDto user);
-        Task DeleteNewsFeedStory(int id);
     }
 }

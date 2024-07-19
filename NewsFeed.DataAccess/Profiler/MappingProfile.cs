@@ -11,6 +11,9 @@ namespace NewsFeed.DataAccess.Profiler
 {
     public class MappingProfile : Profile
     {
+        /// <summary>
+        /// Mapping Automapper
+        /// </summary>
         public MappingProfile()
         {
             CreateMap<NewsFeedStory, NewsFeedStoryDto>();

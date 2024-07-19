@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 
 namespace NewsFeed.DataAccess.CommanModel
 {
-    // DTOs/SearchParameters.cs
-    public class PageInfo
-    {
-        public int PageNumber { get; set; } = 1;
-        public int PageSize { get; set; } = 10;
-    }
-
     public class SearchInfo
     {
         public string SearchValue { get; set; } = string.Empty;

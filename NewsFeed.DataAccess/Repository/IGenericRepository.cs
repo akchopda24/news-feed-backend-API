@@ -12,9 +12,6 @@ namespace NewsFeed.DataAccess.Repository
     {
         Task<IQueryable<T>> GetAll();
         Task<T> GetById(int id);
-        Task<IQueryable<T>> FindByCondition(Expression<Func<T, bool>> expression);
-        Task Create(T entity);
-        Task Update(T entity);
         Task Delete(T entity);
         Task<PagedResult<T>> GetSearchData(Expression<Func<T, bool>> expression, int pageNo = 1, int pageSize = 10);
     }
